@@ -1,0 +1,22 @@
+/* Write your CSS here */
+.button {
+  height: 40px;
+  width: 100px;
+  font-size: 25px;
+  font-family: 'Bree Serif';
+  color: #7b8794;
+  background-color: transparent;
+  border: none;
+  cursor: pointer;
+  outline: none;
+}
+
+.line {
+  height: 2px;
+  width: 110%;
+}
+
+.selected {
+  color: #2563eb;
+  border-color: #2563eb;
+}

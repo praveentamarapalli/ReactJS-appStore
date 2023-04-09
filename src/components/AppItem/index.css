@@ -1,0 +1,26 @@
+/* Write your CSS here */
+.img {
+  width: 40%;
+  border: none;
+}
+
+.name {
+  font-family: 'Bree Serif';
+  font-weight: bold;
+  font-size: 15px;
+  color: #1e293b;
+  text-align: center;
+}
+
+.app-item {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  width: 120px;
+  height: 120px;
+  background-color: #ffffff;
+  margin: 10px;
+  border-radius: 10px;
+  padding-top: 10px;
+}
